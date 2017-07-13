@@ -1,0 +1,22 @@
+{
+  "name": "ameshu-franz",
+  "version": "1.0.0",
+  "description": "Franz plugin for ameshu",
+  "main": "index.js",
+  "author": "Chris Martinez <chris@cmtz.co>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://tokyo-ame.jwa.or.jp/",
+    "serviceName": "アメッシュ",
+    "message": "アメッシュ",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "customURL": false,
+    "hasTeamID": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
